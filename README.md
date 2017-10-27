@@ -1,2 +1,1 @@
-# squish
-a URL shortener
+Give it a URL, and it will give you a shortened version that leads to the original URL.
